@@ -1,2 +1,2 @@
-# c--programming
-1st sem c - programming - Dr AIT
+# c-programming
+1st sem c-programming - Dr AIT
